@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AndroidAcademyMovie</string>
+    <string name="back">Back</string>
+    <string name="age">13+</string>
+    <string name="movie_name">Avengers: \nEnd Game</string>
+    <string name="movie_tags">Action, Adventure, Fantasy</string>
+    <string name="reviews_count">125 reviews</string>
+    <string name="storyline">StoryLine</string>
+    <string name="movie_description">After the devastating events of Avengers: Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos\' actions and restore balance to the universe.</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="movies_list">Movies list</string>
+
+    <string name="network_error_msg">Check your internet connection!</string>
+    <string name="cant_found_movie_error_msg">Ooops, something went wrong, can not found this movie...</string>
+</resources>
